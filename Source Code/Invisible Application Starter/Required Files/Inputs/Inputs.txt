@@ -1,0 +1,10 @@
+application_name = Invisible Application Starter
+application_excutable = Invisible Application Starter.exe
+application_icon = Application_Icon.ico
+application_splashimage = splash_image.jpg
+application_netmajorversion = 1
+application_netminorversion = 0
+application_buildnumber = 4323
+application_colour = B5B5B5
+application_forecolour = FFFFFF
+application_download = http://www.commerce.uct.ac.za/Commerce_IT/Support/Utilities/Files/DotNetFramework/dotnetfx.exe

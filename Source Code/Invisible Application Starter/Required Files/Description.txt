@@ -1,0 +1,15 @@
+Invisible Application Starter
+
+Invisible Application Starter is a semi-invisible application that runs in the background, scanning its special monitor folder for text files dumped by other applications. These text files simply contain an executable path of the application desired to be launched. Invisible Application Starter launches at start up and can only be killed via the Windows Task Manager.
+
+Invisible Application Starter checks its monitor directory situated at Application.Startup\Monitor every 60 seconds.
+
+Created by Craig Lotter, December 2005
+
+*********************************
+
+Project Details:
+
+Coded in Visual Basic .NET using Visual Studio .NET 2003
+Implements concepts such as Threading, Shell Executing, Registry Programming.
+Level of Complexity: Simple
